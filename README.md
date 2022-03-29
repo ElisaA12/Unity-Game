@@ -1,1 +1,1 @@
-Gioco in linguaggio c 
+Gioco 
