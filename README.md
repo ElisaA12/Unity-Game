@@ -1,4 +1,6 @@
 # Gioco d'azione in Unity.
+*Elisa Acciari A.A. 2019/2020
+Università degli Studi di Perugia.*
 
 Lo scopo del gioco è di trovare il tesoro nascosto all'interno dell'ambientazione, superando gli ostacoli che si incontrano sul percorso.
 
