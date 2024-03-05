@@ -1,6 +1,6 @@
 Gioco d'azione in Unity.
 
-Lo scopo del gioco e' di trovare il tesoro nascosto all'interno dell'ambientazione, superando gli ostacoli che si incontrano sul percorso.
+Lo scopo del gioco è di trovare il tesoro nascosto all'interno dell'ambientazione, superando gli ostacoli che si incontrano sul percorso.
 
 All'inizio del gioco comparira' il menu in cui si potra' cliccare il bottone avvia per iniziare la partita.
 Il personaggio avra' una barra che andra' ad indicare il livello di vita del giocatore. 
