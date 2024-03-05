@@ -8,7 +8,7 @@ Possiederà una pistola con la quale potrà uccidere i mostri che si incontrano 
 Infatti, se si incontra un nemico e si è ad una certa distanza, questo inseguira' il personaggio finchè il gioctore non uccide il mostro o fino a che non si riesce a scappare ed a seminarlo.
 Se il nemico riesce a raggiunge il personaggio, gli infliggerà un danno. 
 
-Le specifiche sono riportate nel file *"progetto1819"*.
+Le specifiche sono riportate nel file **"progetto1819"**.
 
 
 
